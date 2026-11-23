@@ -7,7 +7,7 @@
 - **Name:** Syed Akbar Ali
 - **Seat Number:** EB23210106125
 - **GitHub:** [syedAkbarAli369](https://github.com/syedAkbarAli369)
-- **Hugging Face Profile:** [Add your profile link here](https://huggingface.co/Akbar369)
+- **Hugging Face Profile:** [Akbar369](https://huggingface.co/Akbar369)
 - **Course:** [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1)
 
 ## About This Project
